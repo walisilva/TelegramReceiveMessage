@@ -1,0 +1,7 @@
+C:\Projetos\Meus Testes\Testes\Telegram\bin\Release\net6.0\publish\Telegram.exe
+C:\Projetos\Meus Testes\Testes\Telegram\bin\Release\net6.0\publish\Telegram.dll
+C:\Projetos\Meus Testes\Testes\Telegram\bin\Release\net6.0\publish\Telegram.deps.json
+C:\Projetos\Meus Testes\Testes\Telegram\bin\Release\net6.0\publish\Telegram.runtimeconfig.json
+C:\Projetos\Meus Testes\Testes\Telegram\bin\Release\net6.0\publish\Telegram.pdb
+C:\Projetos\Meus Testes\Testes\Telegram\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Projetos\Meus Testes\Testes\Telegram\bin\Release\net6.0\publish\Telegram.Bot.dll
